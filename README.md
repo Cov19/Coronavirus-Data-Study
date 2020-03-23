@@ -9,10 +9,13 @@ This is a data visualization case study in relation to the GISAID data found [he
 ![N|Dataview2](https://raw.githubusercontent.com/Cov19/Coronavirus-Data-Study/master/Charts/Chart2NCOV.png)
 
 ## Dataview #3
+This is in relation to host data
 ![N|Dataview3](https://raw.githubusercontent.com/Cov19/Coronavirus-Data-Study/master/Charts/Chart3NCOV.png)
 
 ## Dataview #4
+This is in relation to host data
 ![N|Dataview4](https://raw.githubusercontent.com/Cov19/Coronavirus-Data-Study/master/Charts/Chart4NCOV.png)
 
 ## Dataview #4
+This is in relation to host data
 ![N|Dataview5](https://raw.githubusercontent.com/Cov19/Coronavirus-Data-Study/master/Charts/Chart5NCOV.png)
